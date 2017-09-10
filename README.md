@@ -9,6 +9,14 @@ This is a React with Redux project
 
 ### Installing
 
+```bash
+$ git clone https://github.com/miri4ech/pj-readable.git
+$ cd pj-readable
+```
+
+```bash
+$ npm install 
+```
 
 ## Running the project
 
