@@ -1,5 +1,5 @@
 # Readable
-This is a React with Redux project / a content and comment web app
+This is a React with Redux project / a content and comment web app.
 
 ## Getting Started
 
